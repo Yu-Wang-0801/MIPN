@@ -1,3 +1,3 @@
 # MIPN
 
-SINGLE IMAGE SUPER-RESOLUTION VIA MULTI-SCALE INFORMATION POLYMERIZATION NETWORK （updating)
+Single image super-resolution via multi-scale information polymerization network （updating)
