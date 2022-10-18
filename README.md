@@ -9,6 +9,8 @@ Please download test result
 Baidu drive link: [Download](https://pan.baidu.com/s/1VROIeLh0PVXpM5g3OxyY6g)
 提取码：yeoc
 
+The following PSNR/SSIMs are evaluated on Matlab R2017a and the code can be referred to [Evaluate_PSNR_SSIM.m](https://github.com/yulunzhang/RCAN/blob/master/RCAN_TestCode/Evaluate_PSNR_SSIM.m).
+
 ### PSNR & SSIM
 <p align="center">
     <img src="result.jpg" width="640"> <br />
