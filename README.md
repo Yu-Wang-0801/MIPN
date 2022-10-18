@@ -1,6 +1,7 @@
 # MIPN
 
 Single Image Super-Resolution via Multi-Scale Information Polymerization Network
+
 Paper link: [SPL 2021](https://ieeexplore.ieee.org/document/9442897)
 
 ### Testing
