@@ -41,6 +41,6 @@ If you find the code helpful in your resarch or work, please cite the following 
 <details>
 <summary>statistics</summary>
 
-![visitors](https://github.com/Yu-Wang-0801/MIPN)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Yu-Wang-0801/MIPN-badge&left_color=red&right_color=green) 
 
 </details>
